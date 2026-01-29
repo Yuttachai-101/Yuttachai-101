@@ -15,7 +15,11 @@
 
 ---
 
-## 🛠 Tech Stack
+## Demo Project
+
+---
+
+## 🛠 Experience Stack
 
 ### Languages & Frameworks
 
