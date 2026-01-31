@@ -17,6 +17,11 @@
 
 ## Demo Project
 
+- Order management (incomplete)
+  - [Demo](https://order-management-7rm.pages.dev/dashboard)
+  - [Frontend](https://github.com/Yuttachai-101/front_order_management)
+  - [Backend](https://github.com/Yuttachai-101/order_management)
+
 ---
 
 ## 🛠 Experience Stack
@@ -56,16 +61,14 @@
 
 ---
 
-## Demo Project
-
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuttachai-101&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuttachai-101&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 ## 📫 Connect with me
 
