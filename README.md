@@ -1,6 +1,6 @@
 # Hi there, I'm Yuttachai.m 👋
 
-### FullStack Developer | Go Backend Developer
+### FullStack Developer | Go | React
 
 <!-- <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Building+scalable+microservices;Go+and+gRPC+Expert;Kubernetes+Practitioner" alt="Typing SVG" />
@@ -8,19 +8,15 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on an **Order Management & CRM System**.
-- 🏗️ Deeply interested in **Microservices Architecture** and **System Design**.
-
----
-
 ## Demo Project
 
-- Order management (incomplete)
+<!-- - Order management (incomplete)
   - [Demo](https://order-management-7rm.pages.dev/dashboard)
   - [Frontend](https://github.com/Yuttachai-101/front_order_management)
-  - [Backend](https://github.com/Yuttachai-101/order_management)
+  - [Backend](https://github.com/Yuttachai-101/order_management) -->
+
+- KPI Monitoring
+  - [Demo](https://kpi-monitoring.vercel.app/)
 
 ---
 
