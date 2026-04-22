@@ -15,7 +15,7 @@
   - [Frontend](https://github.com/Yuttachai-101/front_order_management)
   - [Backend](https://github.com/Yuttachai-101/order_management) -->
 
-- KPI Monitoring
+- KPI Monitoring (React + supabase)
   - [Demo](https://kpi-monitoring.vercel.app/)
 
 ---
